@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋 I'm Ranjith Kumar
 
-<!--
-**RanjithkumarPerugu/RanjithkumarPerugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Developer | DSA Enthusiast | Web Developer | AI Developer  
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Student  
+💡 Passionate about solving problems using Data Structures & Algorithms  
+🌐 Building responsive web applications  
+🤖 Exploring Artificial Intelligence & Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+💻 Programming:
+- Python 🐍
+- Java ☕
+
+📚 Core Concepts:
+- Data Structures & Algorithms
+- OOP
+- Problem Solving
+
+🌐 Web Development:
+- HTML
+- CSS
+- Basic JavaScript
+- Git & GitHub
+
+🤖 AI & ML:
+- Python for AI
+- NumPy (Learning)
+- Pandas (Learning)
+- Machine Learning Basics
+
+---
+
+## 📈 Current Focus
+- Improving DSA for placements
+- Building Full Stack Projects
+- Learning AI & ML deeply
+
+---
+
+## 📫 Connect With Me
+📧 Email: ranjithkumarperugu@gmail.com
+🌍 Location: Chennai, India  
+
+---
+
+⭐ "Code. Learn. Build. Repeat."
