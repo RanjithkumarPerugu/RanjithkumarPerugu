@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ranjith Kumar
 
-🚀 Python Developer | DSA Enthusiast | Web Developer | AI Developer  
+🚀 Python | DSA Enthusiast | Web Developer   
 
 🎓 Computer Science Engineering Student  
 💡 Passionate about solving problems using Data Structures & Algorithms  
